@@ -37,19 +37,19 @@ rm -f ArtemisOS-Testing/x86_64/ArtemisOS-Testing.files.sig
 
 
 # Renaming the tar.gz files without the extension.
-mv ArtemisOS/x86_64/ArtemisOS.db.tar.gz ArtemisOS/x86_64/ArtemisOS.db
-mv ArtemisOS-Testing/x86_64/ArtemisOS-Testing.db.tar.gz ArtemisOS-Testing/x86_64/ArtemisOS-Testing.db
+#mv ArtemisOS/x86_64/ArtemisOS.db.tar.gz ArtemisOS/x86_64/ArtemisOS.db
+#mv ArtemisOS-Testing/x86_64/ArtemisOS-Testing.db.tar.gz ArtemisOS-Testing/x86_64/ArtemisOS-Testing.db
 
-mv ArtemisOS/x86_64/ArtemisOS.db.tar.gz.sig ArtemisOS/x86_64/ArtemisOS.db.sig
-mv ArtemisOS-Testing/x86_64/ArtemisOS-Testing.db.tar.gz.sig ArtemisOS-Testing/x86_64/ArtemisOS-Testing.db.sig
+#mv ArtemisOS/x86_64/ArtemisOS.db.tar.gz.sig ArtemisOS/x86_64/ArtemisOS.db.sig
+#mv ArtemisOS-Testing/x86_64/ArtemisOS-Testing.db.tar.gz.sig ArtemisOS-Testing/x86_64/ArtemisOS-Testing.db.sig
 
 
 
-mv ArtemisOS/x86_64/ArtemisOS.files.tar.gz ArtemisOS/x86_64/ArtemisOS.files
-mv ArtemisOS-Testing/x86_64/ArtemisOS-Testing.files.tar.gz ArtemisOS-Testing/x86_64/ArtemisOS-Testing.files
+#mv ArtemisOS/x86_64/ArtemisOS.files.tar.gz ArtemisOS/x86_64/ArtemisOS.files
+#mv ArtemisOS-Testing/x86_64/ArtemisOS-Testing.files.tar.gz ArtemisOS-Testing/x86_64/ArtemisOS-Testing.files
 
-mv ArtemisOS/x86_64/ArtemisOS.files.tar.gz.sig ArtemisOS/x86_64/ArtemisOS.files.sig
-mv ArtemisOS-Testing/x86_64/ArtemisOS-Testing.files.tar.gz.sig ArtemisOS-Testing/x86_64/ArtemisOS-Testing.files.sig
+#mv ArtemisOS/x86_64/ArtemisOS.files.tar.gz.sig ArtemisOS/x86_64/ArtemisOS.files.sig
+#mv ArtemisOS-Testing/x86_64/ArtemisOS-Testing.files.tar.gz.sig ArtemisOS-Testing/x86_64/ArtemisOS-Testing.files.sig
 
 
 echo "#######################################"
